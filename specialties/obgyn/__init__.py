@@ -1,0 +1,1 @@
+"""Obstetrics & Gynecology specialty module."""

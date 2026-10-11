@@ -1,0 +1,1 @@
+"""Base specialty module infrastructure."""

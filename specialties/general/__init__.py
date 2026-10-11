@@ -1,0 +1,1 @@
+"""General practice specialty module."""

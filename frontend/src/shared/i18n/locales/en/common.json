@@ -1,0 +1,43 @@
+{
+  "app": {
+    "name": "Medicaloop",
+    "tagline": "Integrated Healthcare Platform"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "patients": "Patients",
+    "appointments": "Appointments",
+    "portal": "Patient Portal",
+    "home": "Home"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to Medicaloop",
+    "phase": "Phase 1 — Foundation"
+  },
+  "portal": {
+    "title": "Patient Portal",
+    "welcome": "Welcome to your health portal"
+  },
+  "public": {
+    "bookAppointment": "Book Appointment",
+    "about": "About the Doctor"
+  },
+  "home": {
+    "title": "Medicaloop",
+    "subtitle": "Healthcare SaaS connecting doctors and patients",
+    "staffEntry": "Clinic Login",
+    "patientEntry": "Patient Portal"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "comingSoon": "Coming soon"
+  },
+  "visuals": {
+    "orbitHint": "3D model — drag to rotate; numbered pins stay on the anatomy",
+    "loadingModel": "Loading anatomical model…",
+    "hraCredit": "3D organs from the Human Reference Atlas (CC BY 4.0) — https://humanatlas.io",
+    "bp3dCredit": "Anatomy models from BodyParts3D, © The Database Center for Life Science (CC BY 4.0)"
+  }
+}
